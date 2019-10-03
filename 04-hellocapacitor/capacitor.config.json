@@ -1,0 +1,7 @@
+{
+  "appId": "edu.imt.fil",
+  "appName": "hellocapacitor",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}
